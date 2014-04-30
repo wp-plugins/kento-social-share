@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+.kento-social-share{
+position:fixed;
+right:-50px;
+top:50%;
+z-index:2147483647;
+}
+
+.kento-social-share .buttons{
+background:url('social.png');
+-webkit-background-size:100%;
+   -moz-background-size:100%;
+     -o-background-size:100%;
+        background-size:100%;
+border:1px solid #999999;
+/*border-radius*/
+-webkit-border-radius:50%;
+   -moz-border-radius:50%;
+        border-radius:50%;
+/*box-shadow*/
+-webkit-box-shadow:0 0 9px -4px #444444;
+   -moz-box-shadow:0 0 9px -4px #444444;
+        box-shadow:0 0 9px -4px #444444;
+height:100px;
+position:relative;
+/*transition*/
+-webkit-transition:all 0.2s ease 0s;
+   -moz-transition:all 0.2s ease 0s;
+     -o-transition:all 0.2s ease 0s;
+        transition:all 0.2s ease 0s;
+width:100px;
+}
+.kento-social-share:hover .buttons{
+/*transform*/
+-webkit-transform:scale(3);
+   -moz-transform:scale(3);
+    -ms-transform:scale(3);
+     -o-transform:scale(3);
+        transform:scale(3);
+}
+.kento-social-share .s-button{
+/*border-radius*/
+-webkit-border-radius:50%;
+   -moz-border-radius:50%;
+        border-radius:50%;
+height:45px;
+margin:2px;
+overflow:hidden;
+position:absolute;
+text-align:center;
+width:45px;
+display:none;
+}
+.kento-social-share .s-button > a{
+display:block;
+height:100%;
+width:100%;
+}
+.kento-social-share .button-1{
+right:63px;
+top:-147px;
+}
+.kento-social-share .button-2{
+right:108px;
+top:-131px;
+}
+.kento-social-share .button-3{
+right:148px;
+top:-104px;
+}
+.kento-social-share .button-4{
+right:177px;
+top:-67px;
+}
+.kento-social-share .button-5{
+right:196px;
+top:-24px;
+}
+.kento-social-share .button-6{
+right:204px;
+top:23px;
+}
+.kento-social-share .button-7{
+right:198px;
+top:70px;
+}
+.kento-social-share .button-8{
+right:181px;
+top:114px;
+}
+.kento-social-share .button-9{
+right:152px;
+top:151px;
+}
+.kento-social-share .button-10{
+right:116px;
+top:181px;
+}
+.kento-social-share .button-11{
+right:71px;
+top:198px;
+}
+.kento-social-share .s-button .fb{
+background:url("fb.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .gplus{
+background:url("gplus.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .linkedin{
+background:url("linkedin.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .twitter{
+background:url("twitter.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .pinterest{
+background:url("pinterest.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .stumble{
+background:url("stumble.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .folkd{
+background:url("folkd.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .delicious{
+background:url("delicious.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .digg{
+background:url("digg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .reddit{
+background:url("reddit.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.kento-social-share .s-button .email{
+background:url("email.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
