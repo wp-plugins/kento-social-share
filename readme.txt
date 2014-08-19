@@ -1,5 +1,5 @@
 === Kento Social Share ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags:  Social Networks Sharing, social share, Social Share Buttons, Social Share Buttons on posts, Social Share on posts
 
