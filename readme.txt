@@ -19,6 +19,8 @@ allow your visitors share your webpage using fancy social sharing tools.
 
 Live demo: http://kentothemes.com/demo/kento-social-share/
 
+Thank You Please Visit: http://kentothemes.com/
+
 Plugin Features
 
 * Top 11 social sharing site.
