@@ -21,6 +21,8 @@ Live demo: http://kentothemes.com/demo/kento-social-share/
 
 Thank You Please Visit: http://kentothemes.com/
 
+Try other sharing tools at http://sumome.com/
+
 Plugin Features
 
 * Top 11 social sharing site.
