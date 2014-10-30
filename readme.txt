@@ -12,6 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Fancy Social share tool by kentothemes.com  Try other sharing tools at: https://sumome.com
 
 == Description ==
+
 Get even more sharing tools at <a href="http://www.sumome.com/?src=kss">SumoMe.com</a>
 
 
@@ -21,6 +22,8 @@ allow your visitors share your webpage using fancy social sharing tools.
 Live demo: http://kentothemes.com/demo/kento-social-share/
 
 Thank You Please Visit: http://kentothemes.com/
+
+
 
 Get even more sharing tools at <a href="http://www.sumome.com/?src=kss">SumoMe.com</a>
 
